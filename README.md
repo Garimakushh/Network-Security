@@ -49,10 +49,16 @@ This project implements a secure communication pipeline between a sender and rec
 
 * 🧩 Clean modular code structure
 # 📸 Output
+* Key Generation 
+  ![image](https://github.com/Garimakushh/Network-Security/blob/67d81069a7df9da97990a5568f61d62b8cedbf0f/Results/keyGen.jpg)
+* Server Terminal
+  ![image](https://github.com/Garimakushh/Network-Security/blob/67d81069a7df9da97990a5568f61d62b8cedbf0f/Results/server.jpg)
 * Sender Terminal
-  ![image]()
+  ![image](https://github.com/Garimakushh/Network-Security/blob/67d81069a7df9da97990a5568f61d62b8cedbf0f/Results/sender.jpg)
 * Receiver Terminal
-  ![image]()
+  ![image](https://github.com/Garimakushh/Network-Security/blob/67d81069a7df9da97990a5568f61d62b8cedbf0f/Results/receiver.jpg)
+* If verification of receiver failed
+  ![image](https://github.com/Garimakushh/Network-Security/blob/67d81069a7df9da97990a5568f61d62b8cedbf0f/Results/failed%20verification.jpg)
 # 🔒 Security Considerations
 * Uses modern and secure cryptographic standards.
 * Any tampering with keys or data results in failed verification.
